@@ -102,7 +102,7 @@ public class Main implements Runnable{
            if(a+b>=3)
            x++;
            pw.println(x);
-            
+            // adding new line
         }
     }
 }
